@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="Ejerccio_1_PositivoNegativo/Ejerccio_2_ParImpar.csproj" />
+  <Project Path="Ejercicico_5_DescuentoPorEdad/Ejercicico_5_DescuentoPorEdad.csproj" />
+  <Project Path="EjercicioUsando_If_Else_switch/Ejerccio_1_PositivoNegativo.csproj" />
+  <Project Path="Ejercicio_03_MayorEdad/Ejercicio_03_MayorEdad.csproj" />
+  <Project Path="Ejercicio_10_ClasificacionDeAngulos/Ejercicio_10_ClasificacionDeAngulos.csproj" />
+  <Project Path="Ejercicio_11_CalculoDeImpuesto/Ejercicio_11_CalculoDeImpuesto.csproj" />
+  <Project Path="Ejercicio_12_ClasificacionDeNumeros/Ejercicio_12_ClasificacionDeNumeros.csproj" />
+  <Project Path="Ejercicio_13_CalculadoraDeDescuento/Ejercicio_16_CalculadoraDeDescuento.csproj" />
+  <Project Path="Ejercicio_13_VerificacionDeAnioBisiesto/Ejercicio_13_VerificacionDeAnioBisiesto.csproj" />
+  <Project Path="Ejercicio_14_ConvercionDeCalificaciones/Ejercicio_14_ConvercionDeCalificaciones.csproj" />
+  <Project Path="Ejercicio_15_ComparacionDeTresLongitudes/Ejercicio_15_ComparacionDeTresLongitudes.csproj" />
+  <Project Path="Ejercicio_17_TipoDeTriangulo/Ejercicio_17_TipoDeTriangulo.csproj" />
+  <Project Path="Ejercicio_18_EvaluacionDeTemperatura/Ejercicio_18_EvaluacionDeTemperatura.csproj" />
+  <Project Path="Ejercicio_19_ConversionDeHorasA_Turnos/Ejercicio_19_ConversionDeHorasA_Turnos.csproj" />
+  <Project Path="Ejercicio_20_ ClasificacionDe_IMC/Ejercicio_20_ ClasificacionDe_IMC.csproj" />
+  <Project Path="Ejercicio_4_MultiploDe_5/Ejercicio_4_MultiploDe_5.csproj" />
+  <Project Path="Ejercicio_6_CalificacionAprobatoria/Ejercicio_6_CalificacionAprobatoria.csproj" />
+  <Project Path="Ejercicio_7_DiaDeLaSemana/Ejercicio_7_DiaDeLaSemana.csproj" />
+  <Project Path="Ejercicio_8_NumeroMayorEntreDos/Ejercicio_8_NumeroMayorEntreDos.csproj" />
+  <Project Path="Ejercicio_9_Mayor EntreTresNumeros/Ejercicio_9_Mayor EntreTresNumeros.csproj" />
+</Solution>
